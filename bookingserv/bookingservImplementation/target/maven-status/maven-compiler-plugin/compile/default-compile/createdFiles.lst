@@ -1,0 +1,6 @@
+com\paypal\bfs\test\bookingserv\BookingServApplication.class
+com\paypal\bfs\test\bookingserv\impl\exceptionhandlers\BookingServiceException.class
+com\paypal\bfs\test\bookingserv\impl\exceptionhandlers\BookingServiceGlobalExceptionHandler.class
+com\paypal\bfs\test\bookingserv\impl\exceptionhandlers\ConstructError.class
+com\paypal\bfs\test\bookingserv\impl\jpa\repo\BookingRepo.class
+com\paypal\bfs\test\bookingserv\impl\BookingResourceImpl.class
